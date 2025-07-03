@@ -1,7 +1,7 @@
-
 streamlit
 langchain
 langchain-community
 langchain-groq
 chromadb
 python-dotenv
+protobuf==4.24.3
