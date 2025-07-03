@@ -5,3 +5,4 @@ langchain-community>=0.0.30
 chromadb==0.4.24
 numpy>=1.23,<2.0
 protobuf==4.25.3
+langchain_groq>=0.1.0
