@@ -4,7 +4,7 @@ from chromadb.config import Settings
 import uuid
 
 class Portfolio:
-    def __init__(self, file_path="C:\Users\Administrator\Documents\generate email"):
+    def __init__(self, file_path="C:/Users\Administrator\Documents\generate email"):
         """
         Initializes the Portfolio class:
         - Reads the CSV with your portfolio items.
