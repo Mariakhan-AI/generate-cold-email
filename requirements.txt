@@ -1,7 +1,7 @@
+
 streamlit
-langchain
-langchain-community
-langchain-groq
+langchain>=0.1.13
+langchain-community>=0.0.30
 chromadb==0.4.24
-python-dotenv
-protobuf==4.24.3
+numpy>=1.23,<2.0
+protobuf==4.25.3
