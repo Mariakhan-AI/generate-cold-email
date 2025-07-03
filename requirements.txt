@@ -1,6 +1,7 @@
+
 streamlit
-chromadb==0.4.24
-opentelemetry-api==1.22.0
-opentelemetry-sdk==1.22.0
-opentelemetry-exporter-otlp==1.22.0
-protobuf==4.25.3
+langchain
+langchain-community
+langchain-groq
+chromadb
+python-dotenv
