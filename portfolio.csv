@@ -1,0 +1,4 @@
+Title,Description,Techstack,Links
+AI Resume Matcher,"A tool matching resumes to jobs using AI.","Python, NLP, Flask","https://example.com/ai-resume"
+Cold Email Generator,"Creates cold emails from job posts.","Python, LLMs, Streamlit","https://example.com/cold-email"
+CaptionCraft,"Writes viral Instagram captions.","Python, NLP, Gemini API","https://example.com/captioncraft"
